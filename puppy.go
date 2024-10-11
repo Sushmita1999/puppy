@@ -1,5 +1,0 @@
-package puppy 
-
-func main(){
-	
-}
